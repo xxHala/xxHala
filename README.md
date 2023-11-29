@@ -4,9 +4,8 @@
 
 Hi! 👋 I'm Hala Azmi, an experienced Associate Software Engineer with expertise in JavaScript and related technologies. My background at Boeing equipped me with industry-standard development practices.
 
-🅰️ **Angular**
-I'm currently diving into the world of Angular, exploring its features and mastering the art of building dynamic web applications. Excited to leverage this knowledge for future projects!
-
+🌐 **React**
+I'm currently diving into the world of React, exploring its features and mastering the art of building dynamic web applications. Excited to leverage this knowledge for future projects!
 🤔 Exploring new technologies and developing software solutions and quick hacks.
 
 🎓 Studied Computer Science at Jordan University of Science and Technology | GPA: 3.5 (Excellent)
